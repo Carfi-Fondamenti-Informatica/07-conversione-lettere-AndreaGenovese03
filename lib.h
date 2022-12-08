@@ -1,2 +1,2 @@
-bool funzione(char &a);
+bool controlloCovertoCarattere(char &);
 
