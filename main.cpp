@@ -6,7 +6,7 @@ int main (){
     char a;
     cout << "Inserisci un carattere: ";
     cin >> a;
-    if (funzione(a)) {
+    if (controlloCovertoCarattere(a)) {
         cout << a;
     }
     else
