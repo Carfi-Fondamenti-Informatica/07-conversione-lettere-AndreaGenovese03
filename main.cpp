@@ -1,12 +1,12 @@
 #include <iostream>
-#include <lib.h>
+#include "lib.h"
 using namespace std;
 
 int main (){
     char a;
     cout << "Inserisci un carattere: ";
     cin >> a;
-    if (controlloCovertoCarattere(a)) {
+    if (funzione(a)) {
         cout << a;
     }
     else
