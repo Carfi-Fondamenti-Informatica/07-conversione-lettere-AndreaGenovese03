@@ -1,1 +1,1 @@
-
+bool controlloCovertoCarattere (char &);
