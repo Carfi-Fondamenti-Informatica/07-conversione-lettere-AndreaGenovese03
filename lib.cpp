@@ -1,5 +1,4 @@
-#include <lib.h>
-using namespace std;
+#include "lib.h"
 
  bool controlloCovertoCarattere (char &a){
     if ((a>=65 && a<=90)||(a>=97 && a<=122)) {
